@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to DEVOPS !!! </h1>
-<h2> Deploying on Apache Tomcat </h2>
-<h3> Trying CI/CD </h3>
+<h1> Hello folks, Welcome to DEVOPS !!! </h1>
+<h2> Running on Apache Tomcat </h2>
+<h3> Trying CI/CD from local </h3>
